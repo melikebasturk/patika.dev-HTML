@@ -1,6 +1,6 @@
 # patika.dev-HTML
 
-** Patika.dev tarafından gerçekleştirilen HTML eğitiminde verilen olduğu ödevler.**
+*Patika.dev tarafından gerçekleştirilen HTML eğitiminde verilen olduğu ödevler.*
 
 ***
 ## İlk Web Sayfamızı Oluşturmak-odev1
